@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/infa/laboci/dz1/cmake-build-debug-visual-studio/CMakeFiles/dz1.dir/embed.manifest"
