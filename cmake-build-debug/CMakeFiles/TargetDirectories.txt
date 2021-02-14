@@ -1,3 +1,0 @@
-C:/INFA/laboci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/INFA/laboci/cmake-build-debug/CMakeFiles/laboci.dir
-C:/INFA/laboci/cmake-build-debug/CMakeFiles/edit_cache.dir
